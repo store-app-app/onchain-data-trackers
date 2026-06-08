@@ -85,6 +85,6 @@
 
 * 🌐 **[核心主阵地] 综合 Web3 导航矩阵**：[Awesome-Web3-Matrix](https://github.com/store-app-app/Awesome-Web3-Matrix)
 * 🤖 **[衍生阵地 1] 加密套利与高频量化机器人**：[awesome-crypto-arbitrage-bots](https://github.com/store-app-app/awesome-crypto-arbitrage-bots)
-* 🎁 **[衍生阵地 2] 自动化空投交互脚本库**：[web3-airdrop-scripts-2026](https://github.com/store-app-app/web3-airdrop-scripts)
+* 🎁 **[衍生阵地 2] 自动化空投交互脚本库**：[web3-airdrop-scripts](https://github.com/store-app-app/web3-airdrop-scripts)
 
 **获取底层巨鲸监测 API 与智能跟单系统接口**：[www.usdtbi.com](https://www.usdtbi.com)
